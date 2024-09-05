@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/kitabisa/jwe-wasm/compare/v0.2.1...v0.2.2) (2024-09-05)
+
+
+### Bug Fixes
+
+* add licence on wasm-pack build ([88c38ea](https://github.com/kitabisa/jwe-wasm/commit/88c38ea4e4fc6f7d0226ae998f04d61cfc762951))
+
 ## [0.2.1](https://github.com/kitabisa/jwe-wasm/compare/v0.2.0...v0.2.1) (2024-09-05)
 
 
