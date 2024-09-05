@@ -1,6 +1,6 @@
 [package]
 name = "jwe-wasm"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ade Hery Shopyan <adeheryshopyan@gmail.com>"]
 edition = "2021"
 
