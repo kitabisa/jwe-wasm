@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/kitabisa/jwe-wasm/compare/v0.2.0...v0.2.1) (2024-09-05)
+
+
+### Bug Fixes
+
+* add scope on wasm pack build ([d318a17](https://github.com/kitabisa/jwe-wasm/commit/d318a17cfa9ac98047037efe3c32b834072f08d2))
+
 ## [0.2.0](https://github.com/kitabisa/jwe-wasm/compare/v0.1.0...v0.2.0) (2024-09-05)
 
 
