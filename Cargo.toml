@@ -2,6 +2,9 @@
 name = "jwe-wasm"
 version = "0.2.1"
 authors = ["Ade Hery Shopyan <adeheryshopyan@gmail.com>"]
+description = "Library for encryption / decryption JWE using Biscuit"
+repository = "https://github.com/kitabisa/jwe-wasm"
+license = "MIT"
 edition = "2021"
 
 [lib]
