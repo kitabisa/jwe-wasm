@@ -1,6 +1,6 @@
 [package]
 name = "jwe-wasm"
-version = "0.2.2"
+version = "0.2.3"
 authors = ["Ade Hery Shopyan <adeheryshopyan@gmail.com>"]
 description = "Library for encryption / decryption JWE using Biscuit"
 repository = "https://github.com/kitabisa/jwe-wasm"
