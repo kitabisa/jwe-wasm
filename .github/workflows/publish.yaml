@@ -20,14 +20,13 @@ jobs:
         run: cargo install wasm-pack
 
       - name: Build WASM package
-        run: wasm-pack build --release --scope kitabisa --target bundler
+        run: wasm-pack build --release --target bundler
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
-          scope: '@kitabisa'
 
       - name: Install dependencies
         working-directory: pkg

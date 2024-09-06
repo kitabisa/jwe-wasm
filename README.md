@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kitabisa.com">
+  <a href="https://www.npmjs.com/package/jwe-wasm">
     jwe-wasm
   </a>
 </p>
@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/kitabisa/jwe-wasm/actions/workflows/ci.yaml"><img src="https://img.shields.io/github/actions/workflow/status/kitabisa/jwe-wasm/ci.yaml?branch=main" alt="Build Status"></a>
-  <a href="https://www.npmjs.com/package/@kitabisa/jwe-wasm"><img src="https://img.shields.io/npm/dt/@kitabisa/jwe-wasm.svg" alt="NPM Downloads"></a>
+  <a href="https://www.npmjs.com/package/jwe-wasm"><img src="https://img.shields.io/npm/dt/jwe-wasm.svg" alt="NPM Downloads"></a>
   <a href="https://github.com/kitabisa/jwe-wasm/releases"><img src="https://img.shields.io/github/v/release/kitabisa/jwe-wasm" alt="Latest Release"></a>
-  <a href="https://github.com/kitabisa/jwe-wasm/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@kitabisa/jwe-wasm.svg" alt="License"></a>
+  <a href="https://github.com/kitabisa/jwe-wasm/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/jwe-wasm.svg" alt="License"></a>
 </p>
 
 ------
@@ -27,5 +27,5 @@
 Setup jwe-wasm with npm
 
 ```
-$ npm install @kitabisa/jwe-wasm
+$ npm install jwe-wasm
 ```
