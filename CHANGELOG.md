@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/kitabisa/jwe-wasm/compare/v0.2.2...v0.2.3) (2024-09-06)
+
+
+### Bug Fixes
+
+* remove pkg scope ([299db1d](https://github.com/kitabisa/jwe-wasm/commit/299db1d569dffd8582af47b331600dc0ab9f9033))
+
 ## [0.2.2](https://github.com/kitabisa/jwe-wasm/compare/v0.2.1...v0.2.2) (2024-09-05)
 
 
