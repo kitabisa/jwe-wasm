@@ -11,7 +11,7 @@ edition = "2021"
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
-ring = { version = "0.17.8", features = ["wasm32_unknown_unknown_js"] }
+ring = { version = "0.17.13", features = ["wasm32_unknown_unknown_js"] }
 biscuit = "0.7"
 num-bigint = "0.4"
 wasm-bindgen = "0.2"
